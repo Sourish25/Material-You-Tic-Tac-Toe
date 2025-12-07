@@ -59,7 +59,14 @@ This isn't just your grandmother's Tic Tac Toe. Explore **10 distinct game modes
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dada1f94-d63b-4d40-a91e-06d40ecfc9e4" width="180" alt="Screenshot 1">
+  <img src="https://github.com/user-attachments/assets/0e24b6fd-fe73-4db4-b3ea-cda20e65bad0" width="180" alt="Screenshot 2">
+  <img src="https://github.com/user-attachments/assets/233c62b8-f582-4dc9-b377-76c55bcc4b14" width="180" alt="Screenshot 3">
+  <img src="https://github.com/user-attachments/assets/fcb99d93-67d4-45bd-9b00-50f41047bb13" width="180" alt="Screenshot 4">
+  <img src="https://github.com/user-attachments/assets/5072bc83-c77a-4266-9f41-0615663b7057" width="180" alt="Screenshot 5">
+</p>
+
 
 ## 🤝 Contributing
 
