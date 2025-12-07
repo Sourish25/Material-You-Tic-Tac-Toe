@@ -83,4 +83,4 @@ Contributions are welcome! Whether it's fixing a bug, adding a new game mode, or
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
-Built with ❤️ by [Sourish Maity](https://github.com/YOUR_USERNAME)
+Built with ❤️ by [Sourish Maity](https://github.com/Sourish25)
